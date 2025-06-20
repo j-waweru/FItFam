@@ -1,0 +1,41 @@
+# Build Results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.tmp
+
+# Visual Studio
+.vs/
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Others
+TestResults/
+*.sdf
+*.opensdf
+*.VC.db
+_ReSharper*/
+*.DotSettings.user
+*.orig
+
+# Rider
+.idea/
+
+# Optional: ignore user secrets and environment files
+secrets.json
+.env
